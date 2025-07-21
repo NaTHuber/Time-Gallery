@@ -33,6 +33,6 @@ Time Gallery es una colección artística de tres galerías fotográficas y de d
    git clone https://github.com/NaTHuber/Time-Gallery.git
    ```
 
-## Vista principal
+## Página desplegada en 
 
-![](C:\Users\nat27\Desktop\Desktop\proyectos\DesarrolloWeb\Time-Gallery\vista.png)
+[_GitHub Pages Deployment_](https://nathuber.github.io/Time-Gallery/)
